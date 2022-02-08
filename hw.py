@@ -10,3 +10,6 @@ def is_consecutive(a_list):
     print(status)
 
 is_consecutive([])
+
+
+"shoha is wiritng more code"
